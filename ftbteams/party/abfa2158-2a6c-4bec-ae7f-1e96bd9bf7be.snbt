@@ -1,0 +1,29 @@
+{
+	id: "abfa2158-2a6c-4bec-ae7f-1e96bd9bf7be"
+	type: "party"
+	owner: "86b7bed2-f94d-4b5c-b21f-2f29325ba9cd"
+	ranks: {
+		c84a8282-f798-4011-ba22-09ecb002d96d: "member"
+		9c720d8c-353e-448c-b0ea-5dba81e4963a: "member"
+		86b7bed2-f94d-4b5c-b21f-2f29325ba9cd: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Лесной болван"
+		"ftbteams:color": "#DD59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": "Гачимучи"
+		"ftbteams:free_to_join": 1b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1681665384968L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"NellOne\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "86b7bed2-f94d-4b5c-b21f-2f29325ba9cd", date: 1681665384975L, text: "{\"color\":\"green\",\"text\":\"Invited ko.fes\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1681665390971L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"ko.fes\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "86b7bed2-f94d-4b5c-b21f-2f29325ba9cd", date: 1682253486626L, text: "{\"text\":\"аааа\"}" }
+		{ from: "86b7bed2-f94d-4b5c-b21f-2f29325ba9cd", date: 1682253615367L, text: "{\"color\":\"green\",\"text\":\"Invited Tinck\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1682253622884L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Tinck\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

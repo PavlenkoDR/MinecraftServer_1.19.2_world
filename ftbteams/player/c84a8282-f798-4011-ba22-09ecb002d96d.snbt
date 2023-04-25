@@ -1,0 +1,18 @@
+{
+	id: "c84a8282-f798-4011-ba22-09ecb002d96d"
+	type: "player"
+	player_name: "ko.fes"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "ko.fes"
+		"ftbteams:color": "#FF6C59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

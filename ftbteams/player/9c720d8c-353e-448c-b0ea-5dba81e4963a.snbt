@@ -1,0 +1,18 @@
+{
+	id: "9c720d8c-353e-448c-b0ea-5dba81e4963a"
+	type: "player"
+	player_name: "Tinck"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Tinck"
+		"ftbteams:color": "#59FFDA"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [{ from: "9c720d8c-353e-448c-b0ea-5dba81e4963a", date: 1682253567427L, text: "{\"text\":\"/ftbteams\"}" }]
+	extra: { }
+}

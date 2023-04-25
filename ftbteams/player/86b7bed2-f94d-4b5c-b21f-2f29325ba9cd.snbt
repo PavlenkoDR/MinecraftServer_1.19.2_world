@@ -1,0 +1,18 @@
+{
+	id: "86b7bed2-f94d-4b5c-b21f-2f29325ba9cd"
+	type: "player"
+	player_name: "NellOne"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "NellOne"
+		"ftbteams:color": "#AA59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": "NellOne"
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

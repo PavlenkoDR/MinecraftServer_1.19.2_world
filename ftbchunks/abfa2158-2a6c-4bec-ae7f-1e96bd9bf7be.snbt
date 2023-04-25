@@ -1,0 +1,70 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	force_load_members: [
+		"c84a8282-f798-4011-ba22-09ecb002d96d"
+		"9c720d8c-353e-448c-b0ea-5dba81e4963a"
+		"86b7bed2-f94d-4b5c-b21f-2f29325ba9cd"
+	]
+	chunks: {
+		"minecraft:the_nether": [
+			{ x: 0, z: 2, time: 1682417811635L, force_loaded: 1682417812556L }
+			{ x: 0, z: 1, time: 1682417811635L, force_loaded: 1682417812556L }
+			{ x: -1, z: 1, time: 1682417811635L, force_loaded: 1682417812556L }
+			{ x: -1, z: 2, time: 1682417811635L, force_loaded: 1682417812556L }
+		]
+		"minecraft:overworld": [
+			{ x: -1, z: 3, time: 1682170302105L, force_loaded: 1682210915454L }
+			{ x: -5, z: 0, time: 1681665740625L }
+			{ x: -1, z: 4, time: 1682170302105L, force_loaded: 1682210915454L }
+			{ x: -5, z: 1, time: 1681665740314L }
+			{ x: -5, z: 2, time: 1681665751340L }
+			{ x: -1, z: 0, time: 1682210872077L, force_loaded: 1682210915454L }
+			{ x: -1, z: 1, time: 1682210872077L, force_loaded: 1682210915454L }
+			{ x: -1, z: 2, time: 1682170302105L, force_loaded: 1682210915454L }
+			{ x: -5, z: 3, time: 1681824611127L }
+			{ x: -5, z: 4, time: 1682072707243L }
+			{ x: -2, z: 2, time: 1682170302105L }
+			{ x: -2, z: 3, time: 1682170302105L }
+			{ x: -6, z: 0, time: 1681665735963L }
+			{ x: -2, z: 4, time: 1682170302105L }
+			{ x: -6, z: 1, time: 1681665401856L, force_loaded: 1682250999536L }
+			{ x: -2, z: 0, time: 1682210872077L }
+			{ x: -2, z: 1, time: 1682210872077L }
+			{ x: -6, z: 2, time: 1681665750908L, force_loaded: 1681665753909L }
+			{ x: -6, z: 3, time: 1681824611127L, force_loaded: 1681824613109L }
+			{ x: -6, z: 4, time: 1682072707243L, force_loaded: 1682072708538L }
+			{ x: -3, z: 1, time: 1682210872077L }
+			{ x: -3, z: 2, time: 1682170302105L }
+			{ x: -3, z: 3, time: 1682170302105L }
+			{ x: -7, z: 0, time: 1681665736568L }
+			{ x: -3, z: 4, time: 1682170302105L }
+			{ x: 1, z: 8, time: 1682216101114L, force_loaded: 1682216103566L }
+			{ x: -3, z: 0, time: 1682210872077L }
+			{ x: -7, z: 1, time: 1681665741220L }
+			{ x: 1, z: 9, time: 1682216101114L, force_loaded: 1682216103566L }
+			{ x: -7, z: 2, time: 1681665750612L, force_loaded: 1681665753909L }
+			{ x: -7, z: 3, time: 1681824611127L, force_loaded: 1681824613109L }
+			{ x: -7, z: 4, time: 1682072707243L, force_loaded: 1682072708538L }
+			{ x: 0, z: 4, time: 1682170302105L }
+			{ x: -4, z: 0, time: 1682210872077L }
+			{ x: -4, z: 1, time: 1682210872077L }
+			{ x: -4, z: 2, time: 1682170302105L }
+			{ x: -4, z: 3, time: 1682170302105L }
+			{ x: 0, z: 0, time: 1682210872077L }
+			{ x: 0, z: 1, time: 1682210872077L }
+			{ x: 0, z: 2, time: 1682170302105L }
+			{ x: 0, z: 3, time: 1682170302105L }
+			{ x: -8, z: 4, time: 1682072707243L }
+			{ x: -8, z: 0, time: 1682072703054L }
+			{ x: -4, z: 4, time: 1682170302105L }
+			{ x: 0, z: 8, time: 1682216101114L, force_loaded: 1682216103566L }
+			{ x: -8, z: 1, time: 1682072703054L }
+			{ x: 0, z: 9, time: 1682216101114L, force_loaded: 1682216103566L }
+			{ x: -8, z: 2, time: 1682072703054L, force_loaded: 1682072704944L }
+			{ x: -8, z: 3, time: 1682072703054L, force_loaded: 1682072704944L }
+		]
+	}
+}

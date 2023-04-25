@@ -1,0 +1,20 @@
+{
+	id: "71573a09-4179-4a41-88bd-5b4d5b94e137"
+	type: "player"
+	player_name: "Kiska-Lizka"
+	ranks: {
+		71573a09-4179-4a41-88bd-5b4d5b94e137: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "KiskaLizzka"
+		"ftbteams:color": "#BE59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
