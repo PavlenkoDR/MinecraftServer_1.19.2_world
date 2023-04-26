@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2023-04-16 18:10:23 +0600"
@@ -332,6 +338,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2023-04-22 00:20:45 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
     },
     "done": true
   },
@@ -548,6 +560,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2023-04-17 00:29:13 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-04-26 00:10:55 +0600"
     },
     "done": true
   },
@@ -797,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2023-04-16 20:02:12 +0600"
@@ -941,6 +965,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2023-04-26 01:52:36 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2023-04-16 18:23:55 +0600"
@@ -1028,6 +1058,12 @@
   "create:recipes/create.palettes/small_andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-16 18:51:21 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-04-26 02:10:59 +0600"
     },
     "done": true
   },
@@ -1322,6 +1358,12 @@
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2023-04-21 21:45:00 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
     },
     "done": true
   },
@@ -2677,6 +2719,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2023-04-26 02:57:29 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-04-16 23:13:00 +0600"
@@ -3943,6 +3991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-04-26 00:10:55 +0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2023-04-16 20:24:25 +0600"
@@ -4006,6 +4060,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_wall_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2023-04-16 20:24:25 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
     },
     "done": true
   },
@@ -5020,6 +5080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-04-26 02:10:59 +0600"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2023-04-21 19:58:06 +0600"
@@ -5404,6 +5470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-04-26 02:10:59 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2023-04-16 18:11:25 +0600"
@@ -5437,6 +5509,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2023-04-16 18:52:34 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-04-26 00:10:55 +0600"
     },
     "done": true
   },
@@ -5986,6 +6064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-04-26 00:10:55 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2023-04-16 19:37:56 +0600"
@@ -6417,6 +6501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-04-26 00:10:55 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2023-04-16 22:00:42 +0600"
@@ -6537,6 +6627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2023-04-16 20:24:25 +0600"
@@ -6588,6 +6684,12 @@
   "blue_skies:recipes/blue_skies_misc/cooked_charscale_moki_from_smelting_charscale_moki": {
     "criteria": {
       "has_item": "2023-04-21 18:47:05 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
     },
     "done": true
   },
@@ -6876,6 +6978,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2023-04-16 19:37:49 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-04-26 00:10:55 +0600"
     },
     "done": true
   },
@@ -7188,6 +7296,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2023-04-25 22:12:33 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2023-04-16 20:10:47 +0600"
@@ -7239,6 +7353,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2023-04-16 20:24:25 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
     },
     "done": true
   },
@@ -7558,6 +7678,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-04-21 17:09:35 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-04-25 22:12:33 +0600"
     },
     "done": true
   },
