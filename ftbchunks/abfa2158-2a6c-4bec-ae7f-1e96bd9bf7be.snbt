@@ -10,13 +10,12 @@
 	]
 	chunks: {
 		"minecraft:the_nether": [
-			{ x: 0, z: 2, time: 1682417811635L, force_loaded: 1682417812556L }
-			{ x: 0, z: 1, time: 1682417811635L, force_loaded: 1682417812556L }
-			{ x: -1, z: 1, time: 1682417811635L, force_loaded: 1682417812556L }
-			{ x: -1, z: 2, time: 1682417811635L, force_loaded: 1682417812556L }
+			{ x: -7, z: 8, time: 1682716868735L, force_loaded: 1682716870589L }
+			{ x: -6, z: 8, time: 1682716868735L, force_loaded: 1682716870589L }
 		]
 		"minecraft:overworld": [
 			{ x: -1, z: 3, time: 1682170302105L, force_loaded: 1682210915454L }
+			{ x: -5, z: -1, time: 1682535311853L, force_loaded: 1682535315522L }
 			{ x: -5, z: 0, time: 1681665740625L }
 			{ x: -1, z: 4, time: 1682170302105L, force_loaded: 1682210915454L }
 			{ x: -5, z: 1, time: 1681665740314L }
@@ -28,7 +27,8 @@
 			{ x: -5, z: 4, time: 1682072707243L }
 			{ x: -2, z: 2, time: 1682170302105L }
 			{ x: -2, z: 3, time: 1682170302105L }
-			{ x: -6, z: 0, time: 1681665735963L }
+			{ x: -6, z: -1, time: 1682526467228L, force_loaded: 1682526468014L }
+			{ x: -6, z: 0, time: 1681665735963L, force_loaded: 1682526473498L }
 			{ x: -2, z: 4, time: 1682170302105L }
 			{ x: -6, z: 1, time: 1681665401856L, force_loaded: 1682250999536L }
 			{ x: -2, z: 0, time: 1682210872077L }
@@ -39,6 +39,7 @@
 			{ x: -3, z: 1, time: 1682210872077L }
 			{ x: -3, z: 2, time: 1682170302105L }
 			{ x: -3, z: 3, time: 1682170302105L }
+			{ x: -7, z: -1, time: 1682535311853L, force_loaded: 1682535315522L }
 			{ x: -7, z: 0, time: 1681665736568L }
 			{ x: -3, z: 4, time: 1682170302105L }
 			{ x: 1, z: 8, time: 1682216101114L, force_loaded: 1682216103566L }
