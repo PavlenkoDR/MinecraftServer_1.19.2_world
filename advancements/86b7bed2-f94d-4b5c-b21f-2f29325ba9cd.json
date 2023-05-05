@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "divinerpg:twilight/forest_islands": {
+    "criteria": {
+      "enter_wildwood": "2023-05-03 10:20:17 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2023-05-01 07:41:55 +0600"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-05-04 05:24:48 +0600"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
     "criteria": {
       "has_item": "2023-04-16 22:15:33 +0600"
@@ -392,6 +404,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_pie_with_iron": {
     "criteria": {
       "has_item": "2023-05-01 07:28:58 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_brick_stairs_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -470,6 +488,12 @@
   "ftbic:recipes/ftbic/extruding/ingots/tin_to_tin_rod": {
     "criteria": {
       "has_item": "2023-04-16 18:42:57 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -881,6 +905,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_asurine_brick_wall_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
   "ic2:build_mfsu": {
     "criteria": {
       "hasItem": "2023-04-25 04:00:39 +0600"
@@ -986,6 +1016,18 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_wall_stonecutting_glowing_blinding_stone": {
     "criteria": {
       "has_item": "2023-05-01 07:43:33 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_brick_slab_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-05-04 05:24:48 +0600"
     },
     "done": true
   },
@@ -1242,6 +1284,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stone": {
     "criteria": {
       "has_item": "2023-05-01 07:42:57 +0600"
+    },
+    "done": true
+  },
+  "divinerpg:twilight/root": {
+    "criteria": {
+      "divinerpg": "2023-05-03 08:42:58 +0600"
     },
     "done": true
   },
@@ -1515,6 +1563,12 @@
     },
     "done": true
   },
+  "divinerpg:twilight/forest_scourge": {
+    "criteria": {
+      "kill_boss_termasect": "2023-05-03 11:05:19 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2023-04-16 19:37:49 +0600"
@@ -1629,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2023-05-04 05:26:56 +0600"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/coal_ball": {
     "criteria": {
       "has_item": "2023-04-16 18:17:34 +0600"
@@ -1656,6 +1716,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2023-04-16 19:38:31 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_asurine_stairs_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -1899,6 +1965,12 @@
     },
     "done": true
   },
+  "divinerpg:twilight/archaic_bowman": {
+    "criteria": {
+      "kill_boss_eternal_archer": "2023-05-03 12:04:27 +0600"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2023-04-16 20:40:53 +0600"
@@ -1977,6 +2049,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_asurine_slab_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_crimsite_bricks_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2023-04-22 01:20:36 +0600"
@@ -2022,6 +2100,12 @@
   "ftbic:recipes/ftbic/macerating/raw_materials/lead_to_dust": {
     "criteria": {
       "has_item": "2023-04-16 21:07:12 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_asurine_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -2250,6 +2334,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2023-04-16 23:21:40 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_slab_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -3147,6 +3237,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_asurine_bricks_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2023-04-16 19:37:56 +0600"
@@ -3369,6 +3465,12 @@
     },
     "done": true
   },
+  "divinerpg:overworld/towering_guardian": {
+    "criteria": {
+      "kill_boss_ancient_entity": "2023-05-03 08:29:47 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2023-04-16 18:11:41 +0600"
@@ -3579,6 +3681,12 @@
     },
     "done": true
   },
+  "divinerpg:iceika/root": {
+    "criteria": {
+      "divinerpg": "2023-05-04 13:48:06 +0600"
+    },
+    "done": true
+  },
   "tesseract:recipes/search/tesseract": {
     "criteria": {
       "ender_pearl": "2023-04-16 01:58:28 +0600"
@@ -3651,9 +3759,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_asurine_stairs_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2023-04-16 23:12:41 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_brick_stairs_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2023-05-03 19:56:24 +0600"
     },
     "done": true
   },
@@ -3753,6 +3879,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2023-05-04 07:36:31 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2023-04-22 13:57:56 +0600"
@@ -3804,6 +3936,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-04-16 21:07:13 +0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2023-05-04 07:36:05 +0600"
     },
     "done": true
   },
@@ -5137,6 +5275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-05-04 05:24:48 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-04-16 18:52:34 +0600"
@@ -5431,6 +5575,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2023-05-03 20:15:44 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-04-16 19:18:41 +0600"
@@ -5527,6 +5677,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_giant_mushroom": {
+    "criteria": {
+      "location0": "2023-05-03 19:49:51 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2023-04-16 18:13:16 +0600"
@@ -5596,6 +5752,12 @@
   "create:recipes/create.palettes/cut_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-16 18:32:57 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/asurine_pillar_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -6118,6 +6280,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2023-04-17 23:27:02 +0600"
+    },
+    "done": true
+  },
+  "divinerpg:twilight/friend_or_foe": {
+    "criteria": {
+      "kill_twilight_glinthop": "2023-05-03 08:43:25 +0600"
     },
     "done": true
   },
@@ -6719,6 +6887,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_asurine_bricks_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2023-04-21 14:01:45 +0600"
@@ -6827,6 +7001,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_asurine_wall_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-04-21 17:09:35 +0600"
@@ -6848,6 +7028,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stone": {
     "criteria": {
       "has_item": "2023-05-01 03:42:28 +0600"
+    },
+    "done": true
+  },
+  "divinerpg:twilight/dark_another_day": {
+    "criteria": {
+      "enter_mortum": "2023-05-04 08:27:04 +0600"
     },
     "done": true
   },
@@ -7079,6 +7265,12 @@
     },
     "done": true
   },
+  "divinerpg:twilight/purple_planet": {
+    "criteria": {
+      "enter_apalachia": "2023-05-03 11:49:00 +0600"
+    },
+    "done": true
+  },
   "blue_skies:everbright/kill_summoner": {
     "criteria": {
       "kill_summoner": "2023-05-01 05:44:26 +0600"
@@ -7100,6 +7292,12 @@
   "create:recipes/create.palettes/cut_crimsite_slab_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2023-04-22 01:20:36 +0600"
+    },
+    "done": true
+  },
+  "divinerpg:twilight/colourless_land": {
+    "criteria": {
+      "enter_skythern": "2023-05-03 18:52:54 +0600"
     },
     "done": true
   },
@@ -7421,6 +7619,12 @@
     },
     "done": true
   },
+  "divinerpg:twilight/1001_possibilities": {
+    "criteria": {
+      "enter_eden": "2023-05-03 08:42:58 +0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2023-04-16 20:24:25 +0600"
@@ -7472,6 +7676,12 @@
   "create:recipes/create.palettes/small_scoria_bricks_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2023-04-17 00:30:39 +0600"
+    },
+    "done": true
+  },
+  "divinerpg:twilight/observer_of_the_skies": {
+    "criteria": {
+      "kill_boss_termasect": "2023-05-04 08:06:06 +0600"
     },
     "done": true
   },
@@ -7574,6 +7784,12 @@
   "create:recipes/create.palettes/cut_limestone_slab_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2023-04-17 17:56:08 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_asurine_wall_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -8111,6 +8327,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_asurine_brick_slab_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-04-16 18:52:34 +0600"
@@ -8294,14 +8516,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-04-18 21:25:06 +0600",
+      "minecraft:old_growth_pine_taiga": "2023-05-03 20:18:24 +0600",
       "minecraft:taiga": "2023-04-16 15:52:22 +0600",
       "minecraft:frozen_river": "2023-04-16 16:02:57 +0600",
       "minecraft:sunflower_plains": "2023-05-01 13:29:16 +0600",
+      "minecraft:birch_forest": "2023-05-03 19:56:13 +0600",
       "minecraft:windswept_hills": "2023-04-18 20:17:52 +0600",
+      "minecraft:bamboo_jungle": "2023-05-03 20:05:41 +0600",
       "minecraft:savanna_plateau": "2023-05-01 13:46:26 +0600",
       "minecraft:beach": "2023-04-22 00:20:48 +0600",
       "minecraft:stony_peaks": "2023-05-01 13:44:09 +0600",
+      "minecraft:sparse_jungle": "2023-05-03 20:03:07 +0600",
       "minecraft:river": "2023-04-17 01:00:12 +0600",
+      "minecraft:lukewarm_ocean": "2023-05-03 19:58:55 +0600",
       "minecraft:snowy_plains": "2023-04-16 22:27:43 +0600",
       "minecraft:stony_shore": "2023-04-22 00:16:21 +0600",
       "minecraft:snowy_taiga": "2023-04-16 01:58:29 +0600",
@@ -8314,9 +8541,11 @@
       "minecraft:frozen_ocean": "2023-04-21 18:36:42 +0600",
       "minecraft:windswept_forest": "2023-04-21 16:34:11 +0600",
       "minecraft:jungle": "2023-05-02 11:31:14 +0600",
+      "minecraft:ocean": "2023-05-03 19:55:13 +0600",
       "minecraft:snowy_beach": "2023-04-21 18:25:58 +0600",
       "minecraft:flower_forest": "2023-05-01 13:29:04 +0600",
       "minecraft:frozen_peaks": "2023-05-01 13:22:47 +0600",
+      "minecraft:old_growth_birch_forest": "2023-05-03 19:56:24 +0600",
       "minecraft:deep_dark": "2023-04-20 18:01:10 +0600",
       "minecraft:meadow": "2023-04-19 19:49:14 +0600",
       "minecraft:windswept_gravelly_hills": "2023-04-21 18:00:35 +0600",
@@ -8520,6 +8749,12 @@
   "blue_skies:recipes/blue_skies_dungeon/nature_stonebrick": {
     "criteria": {
       "has_item": "2023-05-01 06:32:37 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_brick_wall_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },
@@ -9054,6 +9289,12 @@
     },
     "done": false
   },
+  "divinerpg:twilight/champion_of_light": {
+    "criteria": {
+      "kill_boss_sunstorm": "2023-05-03 09:23:32 +0600"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-04-16 20:40:53 +0600"
@@ -9490,6 +9731,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2023-04-16 18:52:34 +0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_asurine_from_asurine_stonecutting": {
+    "criteria": {
+      "has_asurine": "2023-05-04 05:22:03 +0600"
     },
     "done": true
   },

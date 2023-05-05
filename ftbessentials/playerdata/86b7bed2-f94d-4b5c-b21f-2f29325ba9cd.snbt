@@ -3,12 +3,9 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -81, y: 71, z: 32, time: 1683029755694L }
+	last_seen: { dim: "minecraft:overworld", x: -93, y: 71, z: 27, time: 1683190175154L }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:the_nether", x: -14, y: 45, z: 498, time: 1681672085379L }
-		{ dim: "minecraft:the_nether", x: -14, y: 49, z: 635, time: 1681672326052L }
-		{ dim: "minecraft:overworld", x: -90, y: 0, z: 31, time: 1681732678402L }
 		{ dim: "minecraft:overworld", x: -91, y: 22, z: 20, time: 1681735752144L }
 		{ dim: "minecraft:overworld", x: 310, y: 180, z: 144, time: 1681832888030L }
 		{ dim: "minecraft:overworld", x: 382, y: -50, z: 249, time: 1682110845220L }
@@ -16,6 +13,9 @@
 		{ dim: "minecraft:overworld", x: 18, y: 4, z: 135, time: 1682121600023L }
 		{ dim: "minecraft:overworld", x: 17, y: 7, z: 134, time: 1682126934817L }
 		{ dim: "blue_skies:everbright", x: -1295, y: 123, z: -466, time: 1682895281388L }
+		{ dim: "divinerpg:skythern", x: -12, y: 65, z: -15, time: 1683164120569L }
+		{ dim: "divinerpg:skythern", x: -14, y: 64, z: -16, time: 1683164165009L }
+		{ dim: "divinerpg:skythern", x: 374, y: 77, z: 275, time: 1683166860262L }
 	]
 	homes: { }
 }
